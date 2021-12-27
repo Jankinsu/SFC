@@ -1,2 +1,2 @@
 # SFC
-strategies and rulesfor clash
+strategies and rules for clash
